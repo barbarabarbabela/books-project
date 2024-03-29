@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title": "Harry Potter 2",
+      "id": 1
+    },
+    {
+      "title": "A Good Book",
+      "id": 2
+    },
+    {
+      "title": "A Nice Book",
+      "id": 3
+    }
+  ]
+}
