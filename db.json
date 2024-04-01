@@ -2,15 +2,19 @@
   "books": [
     {
       "title": "Harry Potter 2",
-      "id": 1
+      "id": "1"
     },
     {
       "title": "A Good Book",
-      "id": 2
+      "id": "2"
     },
     {
       "title": "A Nice Book",
-      "id": 3
+      "id": "3"
+    },
+    {
+      "title": "Etc Book 2",
+      "id": "48dd"
     }
   ]
 }
